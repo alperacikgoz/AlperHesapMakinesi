@@ -1,0 +1,13 @@
+<Shell xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+       xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+       xmlns:local="clr-namespace:CalculatorAlperApp.Pages"
+       Shell.FlyoutBehavior="Flyout"
+       x:Class="CalculatorAlperApp.AppShell">
+
+    <ShellItem Title="Hesap Makinesi">
+        <ShellContent Title="Standart" ContentTemplate="{DataTemplate local:StandardPage}" />
+<ShellContent Title="Bilimsel" ContentTemplate="{DataTemplate local:ScientificPage}" />
+
+    </ShellItem>
+
+</Shell>

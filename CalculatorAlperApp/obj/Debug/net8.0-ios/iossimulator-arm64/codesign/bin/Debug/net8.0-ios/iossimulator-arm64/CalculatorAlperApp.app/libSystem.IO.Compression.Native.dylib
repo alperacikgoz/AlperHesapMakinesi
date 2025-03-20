@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - /Users/alperacikgoz/Desktop/CalculatorAlperApp/CalculatorAlperApp/bin/Debug/net8.0-ios/iossimulator-arm64/CalculatorAlperApp.app/libSystem.IO.Compression.Native.dylib

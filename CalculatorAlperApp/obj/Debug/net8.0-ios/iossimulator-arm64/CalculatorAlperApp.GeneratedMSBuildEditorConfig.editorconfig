@@ -1,0 +1,59 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CalculatorAlperApp
+build_property.ProjectDir = /Users/alperacikgoz/Desktop/CalculatorAlperApp/CalculatorAlperApp/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[/Users/alperacikgoz/Desktop/CalculatorAlperApp/CalculatorAlperApp/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CalculatorAlperApp.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[/Users/alperacikgoz/Desktop/CalculatorAlperApp/CalculatorAlperApp/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CalculatorAlperApp.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[/Users/alperacikgoz/Desktop/CalculatorAlperApp/CalculatorAlperApp/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CalculatorAlperApp.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[/Users/alperacikgoz/Desktop/CalculatorAlperApp/CalculatorAlperApp/Pages/ScientificPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CalculatorAlperApp.Pages.ScientificPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages/ScientificPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages/ScientificPage.xaml
+
+[/Users/alperacikgoz/Desktop/CalculatorAlperApp/CalculatorAlperApp/Pages/StandardPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CalculatorAlperApp.Pages.StandardPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages/StandardPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages/StandardPage.xaml
+
+[/Users/alperacikgoz/Desktop/CalculatorAlperApp/CalculatorAlperApp/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CalculatorAlperApp.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Colors.xaml
+
+[/Users/alperacikgoz/Desktop/CalculatorAlperApp/CalculatorAlperApp/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CalculatorAlperApp.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml

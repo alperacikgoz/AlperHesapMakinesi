@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="CalculatorAlperApp.app/CalculatorAlperApp">
+      <IsAppExtension>false</IsAppExtension>
+      <BCSymbolMapName>CalculatorAlperApp.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>CalculatorAlperApp.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/alperacikgoz/Desktop/CalculatorAlperApp/CalculatorAlperApp/obj/Debug/net8.0-ios/iossimulator-arm64/mtouch-symbols.list</SymbolFile>
+      <DSymName>CalculatorAlperApp.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/alperacikgoz/Desktop/CalculatorAlperApp/CalculatorAlperApp</SourceProjectPath>
+      <IsXPCService></IsXPCService>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
