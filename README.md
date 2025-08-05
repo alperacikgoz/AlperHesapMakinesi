@@ -1,3 +1,52 @@
+
+<img width="1024" height="190" alt="Adsız tasarım (2)" src="https://github.com/user-attachments/assets/6ab4bd96-05c4-41a5-a6f0-7444e4d37d5d" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Alper Açıkgöz 22010310001 
 <img width="1229" alt="image" src="https://github.com/user-attachments/assets/f992a155-d38c-4158-a08c-11f33846d0f7" />
 
