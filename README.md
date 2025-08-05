@@ -1,9 +1,13 @@
 
+
 <img width="1024" height="190" alt="Adsız tasarım (2)" src="https://github.com/user-attachments/assets/6ab4bd96-05c4-41a5-a6f0-7444e4d37d5d" />
 
 
 
+# Takım İsmi
 
+
+### **`HEARTWARE`**
 
 
 
